@@ -1,0 +1,10 @@
+{
+  "name": "takiacademy",
+  "version": "1.0.0",
+  "description": "online learning website",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Ashraf Ben Slimane"
+}
